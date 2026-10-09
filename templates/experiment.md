@@ -79,7 +79,7 @@ If using a score, state its definition, implementation revision, exact evaluated
 ## Failure analysis and decision
 
 - **Observable failure or remaining gap:** `<specific symptom and evidence>`
-- **Demonstrated cause:** `<only what was established; otherwise `not established`>`
+- **Demonstrated cause:** `<only what was established; otherwise not established>`
 - **Hypotheses:** `<plausible causes still needing a test>`
 - **What improved:** `<bounded result>`
 - **Reviewer decision and date:** `<decision, purpose and reason>`

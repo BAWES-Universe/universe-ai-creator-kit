@@ -12,7 +12,7 @@ npx skills add https://github.com/BAWES-Universe/universe-ai-creator-kit --skill
 
 Choose your agent when prompted. The `skills` CLI lists **Claude Code, Codex, and Hermes** among its supported agents. The CLI source reviewed for this setup was version **1.7.1**, which requires Node.js **22.20.0 or newer**.
 
-Sources: [official CLI documentation](https://skills.sh/docs/cli), [supported agents](https://github.com/vercel-labs/skills#supported-agents), and [CLI package requirements](https://github.com/vercel-labs/skills/blob/main/package.json). The unpinned `npx` command can resolve a newer CLI release; check its requirements if they change.
+Sources: [official CLI documentation](https://skills.sh/docs/cli), [supported agents](https://github.com/vercel-labs/skills#supported-agents), and [CLI package requirements](https://github.com/vercel-labs/skills/blob/958f4b7389ba698b0a6a26a1e505ae2af82364d2/package.json). The unpinned `npx` command can resolve a newer CLI release; check its requirements if they change.
 
 Installation uses the project's scope by default. For agent-specific selection or user-wide installation, see the options below. Installing this skill does not install Tiled, a game runtime, image-generation tools, or private source repositories.
 
