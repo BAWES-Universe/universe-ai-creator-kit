@@ -7,6 +7,7 @@ Small, focused contributions are welcome: one recipe, one corrected claim, one f
 ## Choose the right place
 
 - Update the [map guide](docs/maps.md) or [Woka guide](docs/wokas.md) for reusable methods.
+- Add reviewable map/Woka revisions to the [versioned catalogue](docs/catalogue/README.md) using the [map record](templates/map-record.md) or [Woka record](templates/woka-record.md). Keep stable IDs, parents, dated feedback, provenance and exact source links; preserve rejected versions.
 - Update [experiment history](docs/experiment-history.md) for a specific attempt and its outcome.
 - Use the [experiment template](templates/experiment.md) for a new reproducible record.
 - Update [validation](docs/validation.md) when the review process itself improves.

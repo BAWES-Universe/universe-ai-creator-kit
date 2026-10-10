@@ -4,7 +4,7 @@
 
 Build maps, Woka characters, and assets with reusable skills, practical workflows, and lessons from real experiments. Made for human creators and the AI agents working alongside them.
 
-[Get started](#get-started) · [Maps](docs/maps.md) · [Wokas](docs/wokas.md) · [Experiment history](docs/experiment-history.md)
+[Versioned map & Woka catalogue](docs/catalogue/README.md) · [Get started](#get-started) · [Maps](docs/maps.md) · [Wokas](docs/wokas.md) · [Experiment history](docs/experiment-history.md)
 
 ## Get started
 
@@ -30,7 +30,7 @@ Prefer a Woka or an asset? Change the task to suit. The skill helps you choose a
 | --- | --- |
 | [![Butterfly Town v1: a lantern-lit town square with a fountain and three buildings](https://raw.githubusercontent.com/BAWES-Universe/universe-maps/d818e6c4c001e5fa7ba76e02663a1fb9ce9460fd/map-mocks/butterfly-town-v1/screenshot.png)](https://github.com/BAWES-Universe/universe-maps/tree/d818e6c4c001e5fa7ba76e02663a1fb9ce9460fd/map-mocks/butterfly-town-v1) | [![Lantern Courtyard depth proof: an avatar among tiled paving, seating, trees, and a pool](https://raw.githubusercontent.com/BAWES-Universe/universe-maps/d818e6c4c001e5fa7ba76e02663a1fb9ce9460fd/map-mocks/lantern-courtyard-02-depth/screenshot.png)](https://github.com/BAWES-Universe/universe-maps/tree/d818e6c4c001e5fa7ba76e02663a1fb9ce9460fd/map-mocks/lantern-courtyard-02-depth) |
 
-Historical views from the [14-entry map archive](https://github.com/BAWES-Universe/universe-maps/tree/d818e6c4c001e5fa7ba76e02663a1fb9ce9460fd/map-mocks). These are learning examples with their own limitations. [See what worked, what failed, and what to try next →](docs/experiment-history.md)
+Historical views from the original [14-entry map archive](https://github.com/BAWES-Universe/universe-maps/tree/d818e6c4c001e5fa7ba76e02663a1fb9ce9460fd/map-mocks). These are learning examples with their own limitations. [See what worked, what failed, and what to try next →](docs/experiment-history.md)
 
 ## Make one good thing, then build on it
 
@@ -51,6 +51,9 @@ The same workflow applies to people and agents. Useful failures belong here too.
 | [Shared creator skill](skills/universe-creator/SKILL.md) | [Contributing](CONTRIBUTING.md) |
 
 ## Where things stand
+
+The [versioned catalogue](docs/catalogue/README.md) now indexes the [26-entry archive snapshot](https://github.com/BAWES-Universe/universe-maps/tree/03d83f2dd74108a6f75847bd2f7d03c5d619c950/map-mocks), later Gate/Campus derivatives and three authored Woka families. Rejected and missing-source records stay visible. The 14-entry count below describes the original handbook snapshot.
+
 
 The starting archive preserves **10 Tiled candidates and four visual/art studies**. Original art quality is still being worked out, and archived experiments are not automatically publishable templates. Technical checks and visual acceptance are tracked separately.
 
