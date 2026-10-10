@@ -94,6 +94,9 @@ The durable map lessons were concrete: use wall ends/corners/tops/front faces, g
 
 ## 4. The preserved Universe map sequence
 
+**10 October 2026 update:** [current archive](https://github.com/BAWES-Universe/universe-maps/tree/03d83f2dd74108a6f75847bd2f7d03c5d619c950/map-mocks) contains 26 records. See the [versioned catalogue](catalogue/README.md) for the expanded inventory, later Gate/Campus versions and named Woka histories. The original fourteen-entry snapshot and its historical checks below are retained unchanged.
+
+
 The [map-mock archive](https://github.com/BAWES-Universe/universe-maps/tree/d818e6c4c001e5fa7ba76e02663a1fb9ce9460fd/map-mocks) contains fourteen entries: ten Tiled candidates, three visual-only proposals, and one offline art/lighting study. The snapshot is associated with [universe-maps PR #3](https://github.com/BAWES-Universe/universe-maps/pull/3); archiving does not establish merge, deployment or live catalog acceptance. Use the pinned snapshot rather than assuming the PR's current head is unchanged.
 
 | Preserved entry or family | What to retain from it | What not to infer |
@@ -126,3 +129,4 @@ The proposed next art test is bounded: one original painted threshold vignette u
 - Find an art method that is genuinely better than v1 at native gameplay scale before scaling production to a full world.
 
 None of these open questions is silently marked solved by this documentation.
+

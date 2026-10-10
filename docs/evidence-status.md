@@ -29,7 +29,10 @@ Useful outcome descriptions include:
 
 An unsuccessful experiment can have strong evidence. A polished-looking proposal can have weak evidence. Preserve both distinctions.
 
-## Current archive interpretation
+## Archive interpretation
+
+**10 October 2026 update:** the [current pinned archive](https://github.com/BAWES-Universe/universe-maps/tree/03d83f2dd74108a6f75847bd2f7d03c5d619c950/map-mocks) has 26 records. The [versioned catalogue](catalogue/README.md) also tracks later maps and Wokas. The following fourteen-entry description applies to the original snapshot, not the expanded archive.
+
 
 The [pinned map archive](https://github.com/BAWES-Universe/universe-maps/tree/d818e6c4c001e5fa7ba76e02663a1fb9ce9460fd/map-mocks) has 14 entries: 10 Tiled candidates, three visual-only proposals, and one art/lighting study. Treat archive reports as historical evidence unless a contribution includes a fresh, fully identified reproduction.
 
@@ -60,3 +63,4 @@ When a later test changes the conclusion, keep the earlier source and explain th
 If a source becomes unavailable, flag the access problem. Do not invent its contents or quietly transfer its confidence to a replacement. If the original source can only be described from an earlier report, label it historical/reported and retain that limitation.
 
 [Back to the kit](../README.md) · [Validation guide](validation.md)
+
