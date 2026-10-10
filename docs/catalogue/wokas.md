@@ -2,7 +2,7 @@
 
 [Catalogue](README.md). Three authored character families. Existing owner-private source ZIPs are named for recovery; no source art is copied here. PNG dimensions and bytes were checked; no new game acceptance is claimed. Later owner acceptance for Greg v3 supersedes the older ZIP’s pending status.
 
-### woka-coffee-v1
+## woka-coffee-v1
 **Gulf coffee carrier · v1** — rejected-early-art-preserved.
 Gulf coffee host carrying a brass dallah and white handleless finjan consistently through all directions.
 - Version: 1; parent: not recorded (not recorded).
@@ -12,7 +12,7 @@ Gulf coffee host carrying a brass dallah and white handleless finjan consistentl
 - Recovery: Exact original/source bytes readable in existing Library archive; archive not recopied by catalogue.
 - Provenance: Built-in image generation with retained raw outputs and deterministic conversion/repair scripts; exact model/seed unavailable. Reference artwork and source portrait are retained privately. Verify upstream rights before public redistribution; catalogue adds no license.
 
-### woka-coffee-v2
+## woka-coffee-v2
 **Gulf coffee carrier · v2** — rejected-early-art-preserved.
 Gulf coffee host carrying a brass dallah and white handleless finjan consistently through all directions.
 - Version: 2; parent: woka-coffee-v1 (derived from).
@@ -22,7 +22,7 @@ Gulf coffee host carrying a brass dallah and white handleless finjan consistentl
 - Recovery: Exact original/source bytes readable in existing Library archive; archive not recopied by catalogue.
 - Provenance: Built-in image generation with retained raw outputs and deterministic conversion/repair scripts; exact model/seed unavailable. Reference artwork and source portrait are retained privately. Verify upstream rights before public redistribution; catalogue adds no license.
 
-### woka-coffee-v3
+## woka-coffee-v3
 **Gulf coffee carrier · v3** — rejected-early-art-preserved.
 Gulf coffee host carrying a brass dallah and white handleless finjan consistently through all directions.
 - Version: 3; parent: woka-coffee-v2 (derived from).
@@ -32,7 +32,7 @@ Gulf coffee host carrying a brass dallah and white handleless finjan consistentl
 - Recovery: Exact original/source bytes readable in existing Library archive; archive not recopied by catalogue.
 - Provenance: Built-in image generation with retained raw outputs and deterministic conversion/repair scripts; exact model/seed unavailable. Reference artwork and source portrait are retained privately. Verify upstream rights before public redistribution; catalogue adds no license.
 
-### woka-coffee-v4
+## woka-coffee-v4
 **Gulf coffee carrier · v4** — rejected-early-art-preserved.
 Gulf coffee host carrying a brass dallah and white handleless finjan consistently through all directions.
 - Version: 4; parent: woka-coffee-v3 (derived from).
@@ -42,7 +42,7 @@ Gulf coffee host carrying a brass dallah and white handleless finjan consistentl
 - Recovery: Exact original/source bytes readable in existing Library archive; archive not recopied by catalogue.
 - Provenance: Built-in image generation with retained raw outputs and deterministic conversion/repair scripts; exact model/seed unavailable. Reference artwork and source portrait are retained privately. Verify upstream rights before public redistribution; catalogue adds no license.
 
-### woka-coffee-v5
+## woka-coffee-v5
 **Gulf coffee carrier · v5** — rejected-early-art-preserved.
 Gulf coffee host carrying a brass dallah and white handleless finjan consistently through all directions.
 - Version: 5; parent: woka-coffee-v4 (derived from).
@@ -52,7 +52,7 @@ Gulf coffee host carrying a brass dallah and white handleless finjan consistentl
 - Recovery: Exact original/source bytes readable in existing Library archive; archive not recopied by catalogue.
 - Provenance: Built-in image generation with retained raw outputs and deterministic conversion/repair scripts; exact model/seed unavailable. Reference artwork and source portrait are retained privately. Verify upstream rights before public redistribution; catalogue adds no license.
 
-### woka-coffee-v6
+## woka-coffee-v6
 **Gulf coffee carrier · v6** — rejected-early-art-preserved.
 Gulf coffee host carrying a brass dallah and white handleless finjan consistently through all directions.
 - Version: 6; parent: woka-coffee-v5 (derived from).
@@ -62,7 +62,7 @@ Gulf coffee host carrying a brass dallah and white handleless finjan consistentl
 - Recovery: Exact original/source bytes readable in existing Library archive; archive not recopied by catalogue.
 - Provenance: Built-in image generation with retained raw outputs and deterministic conversion/repair scripts; exact model/seed unavailable. Reference artwork and source portrait are retained privately. Verify upstream rights before public redistribution; catalogue adds no license.
 
-### woka-coffee-v7
+## woka-coffee-v7
 **Gulf coffee carrier · v7** — rejected-early-art-preserved.
 Gulf coffee host carrying a brass dallah and white handleless finjan consistently through all directions.
 - Version: 7; parent: woka-coffee-v6 (derived from).
@@ -72,7 +72,7 @@ Gulf coffee host carrying a brass dallah and white handleless finjan consistentl
 - Recovery: Exact original/source bytes readable in existing Library archive; archive not recopied by catalogue.
 - Provenance: Built-in image generation with retained raw outputs and deterministic conversion/repair scripts; exact model/seed unavailable. Reference artwork and source portrait are retained privately. Verify upstream rights before public redistribution; catalogue adds no license.
 
-### woka-coffee-v9
+## woka-coffee-v9
 **Gulf coffee carrier · v9** — best-supported-base-needs-repair.
 Gulf coffee host carrying a brass dallah and white handleless finjan consistently through all directions.
 - Version: 9; parent: woka-coffee-friendly-proof-v2 (derived from).
@@ -83,7 +83,7 @@ Gulf coffee host carrying a brass dallah and white handleless finjan consistentl
 - Recovery: Exact original/source bytes readable in existing Library archive; archive not recopied by catalogue.
 - Provenance: Built-in image generation with retained raw outputs and deterministic conversion/repair scripts; exact model/seed unavailable. Reference artwork and source portrait are retained privately. Verify upstream rights before public redistribution; catalogue adds no license.
 
-### woka-coffee-v10
+## woka-coffee-v10
 **Gulf coffee carrier · v10** — superseded-repair-study.
 Gulf coffee host carrying a brass dallah and white handleless finjan consistently through all directions.
 - Version: 10; parent: woka-coffee-v9 (derived from).
@@ -93,7 +93,7 @@ Gulf coffee host carrying a brass dallah and white handleless finjan consistentl
 - Recovery: Exact original/source bytes readable in existing Library archive; archive not recopied by catalogue.
 - Provenance: Built-in image generation with retained raw outputs and deterministic conversion/repair scripts; exact model/seed unavailable. Reference artwork and source portrait are retained privately. Verify upstream rights before public redistribution; catalogue adds no license.
 
-### woka-coffee-v11
+## woka-coffee-v11
 **Gulf coffee carrier · v11** — rejected-broad-rewrite.
 Gulf coffee host carrying a brass dallah and white handleless finjan consistently through all directions.
 - Version: 11; parent: woka-coffee-v10 (derived from).
@@ -104,7 +104,7 @@ Gulf coffee host carrying a brass dallah and white handleless finjan consistentl
 - Recovery: Exact original/source bytes readable in existing Library archive; archive not recopied by catalogue.
 - Provenance: Built-in image generation with retained raw outputs and deterministic conversion/repair scripts; exact model/seed unavailable. Reference artwork and source portrait are retained privately. Verify upstream rights before public redistribution; catalogue adds no license.
 
-### woka-coffee-v12
+## woka-coffee-v12
 **Gulf coffee carrier · v12** — focused-candidate-awaiting-acceptance.
 Gulf coffee host carrying a brass dallah and white handleless finjan consistently through all directions.
 - Version: 12; parent: woka-coffee-v9 (derived from).
@@ -115,7 +115,7 @@ Gulf coffee host carrying a brass dallah and white handleless finjan consistentl
 - Recovery: Exact original/source bytes readable in existing Library archive; archive not recopied by catalogue.
 - Provenance: Built-in image generation with retained raw outputs and deterministic conversion/repair scripts; exact model/seed unavailable. Reference artwork and source portrait are retained privately. Verify upstream rights before public redistribution; catalogue adds no license.
 
-### woka-coffee-friendly-proof-v1
+## woka-coffee-friendly-proof-v1
 **Coffee carrier · friendly four-pose proof v1** — historical-identity-proof.
 Native Universe character art/animation experiment.
 - Version: proof-1; parent: woka-coffee-v7 (derived from).
@@ -125,7 +125,7 @@ Native Universe character art/animation experiment.
 - Recovery: Exact original/source bytes readable in existing Library archive; archive not recopied by catalogue.
 - Provenance: Built-in image generation with retained raw outputs and deterministic conversion/repair scripts; exact model/seed unavailable. Reference artwork and source portrait are retained privately. Verify upstream rights before public redistribution; catalogue adds no license.
 
-### woka-coffee-friendly-proof-v2
+## woka-coffee-friendly-proof-v2
 **Coffee carrier · friendly four-pose proof v2** — historical-identity-proof.
 Native Universe character art/animation experiment.
 - Version: proof-2; parent: woka-coffee-friendly-proof-v1 (derived from).
@@ -135,7 +135,7 @@ Native Universe character art/animation experiment.
 - Recovery: Exact original/source bytes readable in existing Library archive; archive not recopied by catalogue.
 - Provenance: Built-in image generation with retained raw outputs and deterministic conversion/repair scripts; exact model/seed unavailable. Reference artwork and source portrait are retained privately. Verify upstream rights before public redistribution; catalogue adds no license.
 
-### woka-greg-v1
+## woka-greg-v1
 **Greg Gulf outfit · v1** — rejected-animation-preserved.
 Native Universe character art/animation experiment.
 - Version: 1; parent: not recorded (not recorded).
@@ -145,7 +145,7 @@ Native Universe character art/animation experiment.
 - Recovery: Exact original/source bytes readable in existing Library archive; archive not recopied by catalogue.
 - Provenance: Built-in image generation with retained raw outputs and deterministic conversion/repair scripts; exact model/seed unavailable. Reference artwork and source portrait are retained privately. Verify upstream rights before public redistribution; catalogue adds no license.
 
-### woka-greg-v2-proof
+## woka-greg-v2-proof
 **Greg · v2 front/side gait proof** — partial-proof-not-full-sheet.
 Native Universe character art/animation experiment.
 - Version: 2-proof; parent: woka-greg-v1 (derived from).
@@ -155,7 +155,7 @@ Native Universe character art/animation experiment.
 - Recovery: Exact original/source bytes readable in existing Library archive; archive not recopied by catalogue.
 - Provenance: Built-in image generation with retained raw outputs and deterministic conversion/repair scripts; exact model/seed unavailable. Reference artwork and source portrait are retained privately. Verify upstream rights before public redistribution; catalogue adds no license.
 
-### woka-generic-gulf-v2
+## woka-generic-gulf-v2
 **Generic Gulf character · v2** — authored-complete-sheet-acceptance-unrecorded.
 Separate empty-handed Gulf character requested for use while Greg likeness was refined.
 - Version: 2; parent: woka-greg-v2-proof (separate character derived from proof).
@@ -167,7 +167,7 @@ Separate empty-handed Gulf character requested for use while Greg likeness was r
 - Recovery: Exact original/source bytes readable in existing Library archive; archive not recopied by catalogue.
 - Provenance: Built-in image generation with retained raw outputs and deterministic conversion/repair scripts; exact model/seed unavailable. Reference artwork and source portrait are retained privately. Verify upstream rights before public redistribution; catalogue adds no license.
 
-### woka-greg-v3
+## woka-greg-v3
 **Greg Gulf outfit · accepted v3** — owner-accepted-in-game.
 Traditional Arab-outfit Greg derivative with empty hands, locked v1 front identity and improved side gait.
 - Version: 3; parent: woka-greg-v2-proof (derived from).
@@ -178,7 +178,7 @@ Traditional Arab-outfit Greg derivative with empty hands, locked v1 front identi
 - Recovery: Exact original/source bytes readable in existing Library archive; archive not recopied by catalogue.
 - Provenance: Built-in image generation with retained raw outputs and deterministic conversion/repair scripts; exact model/seed unavailable. Reference artwork and source portrait are retained privately. Verify upstream rights before public redistribution; catalogue adds no license.
 
-### woka-greg-v4-side-proof
+## woka-greg-v4-side-proof
 **Greg · rejected v4 side-face proof** — rejected-one-frame-proof.
 Bounded one-frame profile experiment; never a full v4 replacement sheet.
 - Version: 4-proof; parent: woka-greg-v3 (derived from).
@@ -189,7 +189,7 @@ Bounded one-frame profile experiment; never a full v4 replacement sheet.
 - Recovery: Exact original/source bytes readable in existing Library archive; archive not recopied by catalogue.
 - Provenance: Built-in image generation with retained raw outputs and deterministic conversion/repair scripts; exact model/seed unavailable. Reference artwork and source portrait are retained privately. Verify upstream rights before public redistribution; catalogue adds no license.
 
-### reference-greg32-map-fixture
+## reference-greg32-map-fixture
 **Unchanged Greg32 · map QA fixture** — reference-reuse.
 Unchanged 32px avatar used to judge map size, head/foreground overlap and routes.
 - Version: 1; parent: woka-greg-v3 (uses unchanged artwork).
@@ -197,9 +197,9 @@ Unchanged 32px avatar used to judge map size, head/foreground overlap and routes
 - Limits / rejected direction: Using an existing Woka in map QA is not a new authored Woka.
 - Next: Keep avatar at its native scale for comparisons.
 - Recovery: source linked
-- Provenance: Project-authored; original/generated and third-party components retain separate provenance No new license is granted by this catalogue; check source-specific rights before redistribution.
+- Provenance: Project-authored; original/generated and third-party components retain separate provenance. No new license is granted by this catalogue; check source-specific rights before redistribution.
 
-### reference-pipoya-male-01-1
+## reference-pipoya-male-01-1
 **PIPOYA Male 01-1 · style/pose reference** — third-party-reference.
 Native Woka silhouette, face/proportion and movement comparison.
 - Version: source-reference; parent: not recorded (not recorded).

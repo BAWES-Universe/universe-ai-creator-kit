@@ -12,6 +12,8 @@
 - Hosted map URL / actual room URL, if each exists; last verified time:
 - Backup identity and source SHA-256:
 - Target runtime/fork + revision; map grid and unchanged avatar size:
+- Authored visual seat count / locally reachable seats (with evidence):
+- Tested simultaneous-user / media capacity (runtime and evidence, or `untested`):
 - Dated owner feedback:
 - What worked:
 - Rejected choices / known limitations:

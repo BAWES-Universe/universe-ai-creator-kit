@@ -96,7 +96,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution.",
         "source_description": "Butterfly-Campus-v3-Git-ready-map.zip, frozen rejected-dark revision",
         "source_commit": "03d83f2dd74108a6f75847bd2f7d03c5d619c950"
@@ -176,7 +176,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution.",
         "source_description": "Butterfly-Campus-v3-source-review.zip, full light campus snapshot",
         "source_commit": "03d83f2dd74108a6f75847bd2f7d03c5d619c950"
@@ -256,7 +256,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution.",
         "source_description": "Butterfly-Gate-playable-revision.zip; TMJ verified byte-for-byte against durable package",
         "source_commit": "03d83f2dd74108a6f75847bd2f7d03c5d619c950"
@@ -334,7 +334,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution.",
         "source_description": "Butterfly-Town-source-candidate.zip; frozen v1 map source",
         "source_commit": "03d83f2dd74108a6f75847bd2f7d03c5d619c950"
@@ -413,7 +413,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution.",
         "source_description": "Butterfly-Town-v2-source-review.zip, final map snapshot",
         "source_commit": "03d83f2dd74108a6f75847bd2f7d03c5d619c950"
@@ -493,7 +493,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution.",
         "source_description": "Universe-Lantern-Courtyard-Proof-01.zip, original revision",
         "source_commit": "03d83f2dd74108a6f75847bd2f7d03c5d619c950"
@@ -578,7 +578,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution.",
         "source_description": "Universe-Lantern-Courtyard-Proof-01.zip, revision 2",
         "source_commit": "03d83f2dd74108a6f75847bd2f7d03c5d619c950"
@@ -663,7 +663,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution.",
         "source_description": "Universe-Lantern-Courtyard-Proof-01.zip, revision 3; aligned published-map source",
         "source_commit": "03d83f2dd74108a6f75847bd2f7d03c5d619c950"
@@ -746,7 +746,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution.",
         "source_description": "Frozen StudentHub arrival art/lighting experiment, including earlier brown maquette, 2026-10-09",
         "source_commit": "03d83f2dd74108a6f75847bd2f7d03c5d619c950"
@@ -837,7 +837,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution.",
         "source_description": "StudentHub method-proof source package; historical roof-and-glass construction proof",
         "source_commit": "03d83f2dd74108a6f75847bd2f7d03c5d619c950"
@@ -906,7 +906,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution.",
         "source_description": "Historical campus interior compositor prototype.py",
         "source_commit": "03d83f2dd74108a6f75847bd2f7d03c5d619c950"
@@ -976,7 +976,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution.",
         "source_description": "Historical campus interior compositor refined_prototype.py",
         "source_commit": "03d83f2dd74108a6f75847bd2f7d03c5d619c950"
@@ -1046,7 +1046,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution.",
         "source_description": "Single-room light interior composition; preceded the complete light campus",
         "source_commit": "03d83f2dd74108a6f75847bd2f7d03c5d619c950"
@@ -1129,7 +1129,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution.",
         "source_description": "Separate roofless derivative of the connected StudentHub proof, 2026-10-09",
         "source_commit": "03d83f2dd74108a6f75847bd2f7d03c5d619c950"
@@ -1203,7 +1203,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution.",
         "source_description": "Reviewed connected-campus planning overview and editable SVG, 2026-10-09",
         "source_commit": "03d83f2dd74108a6f75847bd2f7d03c5d619c950"
@@ -1278,7 +1278,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution.",
         "source_description": "Project-authored frozen review files from 2026-10-09",
         "source_commit": "03d83f2dd74108a6f75847bd2f7d03c5d619c950"
@@ -1368,7 +1368,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution.",
         "source_description": "Project-authored frozen review files from 2026-10-09",
         "source_commit": "03d83f2dd74108a6f75847bd2f7d03c5d619c950"
@@ -1453,7 +1453,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution.",
         "source_description": "Project-authored frozen review files from 2026-10-09",
         "source_commit": "03d83f2dd74108a6f75847bd2f7d03c5d619c950"
@@ -1528,7 +1528,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution.",
         "source_description": "Project-authored frozen review files from 2026-10-09",
         "source_commit": "03d83f2dd74108a6f75847bd2f7d03c5d619c950"
@@ -1583,12 +1583,6 @@
           "author": "owner",
           "summary": "The layout and palette were liked, but the painted perspective and furniture usability were rejected as the main map direction on 2026-10-09. Preserve this as an unaccepted art experiment; any technical route evidence does not imply visual approval.",
           "evidence": "Recorded project review; paraphrase, not a transcript"
-        },
-        {
-          "date": "2026-10-09",
-          "author": "owner",
-          "summary": "The layout and palette were liked, but the painted perspective and furniture usability were rejected as the main map direction on 2026-10-09. Preserve this as an unaccepted art experiment; any technical route evidence does not imply visual approval.",
-          "evidence": "Recorded project review; paraphrase, not a transcript"
         }
       ],
       "what_worked": [
@@ -1618,7 +1612,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution.",
         "source_description": "Frozen initial painted-direction snapshot, 2026-10-09; original 1254 × 1254 generated master and exact generation prompt",
         "source_commit": "03d83f2dd74108a6f75847bd2f7d03c5d619c950"
@@ -1673,12 +1667,6 @@
           "author": "owner",
           "summary": "The layout and palette were liked, but the painted perspective and furniture usability were rejected as the main map direction on 2026-10-09. Preserve this as an unaccepted art experiment; any technical route evidence does not imply visual approval.",
           "evidence": "Recorded project review; paraphrase, not a transcript"
-        },
-        {
-          "date": "2026-10-09",
-          "author": "owner",
-          "summary": "The layout and palette were liked, but the painted perspective and furniture usability were rejected as the main map direction on 2026-10-09. Preserve this as an unaccepted art experiment; any technical route evidence does not imply visual approval.",
-          "evidence": "Recorded project review; paraphrase, not a transcript"
         }
       ],
       "what_worked": [
@@ -1708,7 +1696,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution.",
         "source_description": "Open-glass-door layered source snapshot frozen 2026-10-09 at 11:00 UTC",
         "source_commit": "03d83f2dd74108a6f75847bd2f7d03c5d619c950"
@@ -1784,7 +1772,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution.",
         "source_description": "Project-authored frozen review files from 2026-10-09",
         "source_commit": "03d83f2dd74108a6f75847bd2f7d03c5d619c950"
@@ -1858,7 +1846,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution.",
         "source_description": "Project-authored frozen review files from 2026-10-09",
         "source_commit": "03d83f2dd74108a6f75847bd2f7d03c5d619c950"
@@ -1941,7 +1929,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution.",
         "source_description": "Project-authored frozen review files from 2026-10-09",
         "source_commit": "03d83f2dd74108a6f75847bd2f7d03c5d619c950"
@@ -2025,7 +2013,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution.",
         "source_description": "Project-authored frozen review files from 2026-10-09",
         "source_commit": "03d83f2dd74108a6f75847bd2f7d03c5d619c950"
@@ -2099,7 +2087,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution.",
         "source_description": "Project-authored frozen review files from 2026-10-09",
         "source_commit": "03d83f2dd74108a6f75847bd2f7d03c5d619c950"
@@ -2169,7 +2157,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution."
       },
       "verification": {
@@ -2237,7 +2225,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution."
       },
       "verification": {
@@ -2288,7 +2276,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution."
       },
       "verification": {
@@ -2326,7 +2314,7 @@
       ],
       "hashes": [],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution."
       },
       "verification": {
@@ -2387,7 +2375,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution."
       },
       "verification": {
@@ -2483,7 +2471,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution."
       },
       "verification": {
@@ -2549,7 +2537,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution."
       },
       "verification": {
@@ -2633,7 +2621,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution."
       },
       "verification": {
@@ -2705,7 +2693,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution."
       },
       "verification": {
@@ -2787,7 +2775,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution."
       },
       "verification": {
@@ -2861,7 +2849,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution."
       },
       "verification": {
@@ -2944,7 +2932,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution."
       },
       "verification": {
@@ -3020,7 +3008,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution."
       },
       "verification": {
@@ -3077,7 +3065,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution."
       },
       "verification": {
@@ -3132,7 +3120,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution."
       },
       "verification": {
@@ -3187,7 +3175,7 @@
       ],
       "hashes": [],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution."
       },
       "verification": {
@@ -4991,7 +4979,7 @@
         }
       ],
       "provenance": {
-        "creation": "Project-authored; original/generated and third-party components retain separate provenance",
+        "creation": "Project-authored; original/generated and third-party components retain separate provenance.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution."
       },
       "verification": {
