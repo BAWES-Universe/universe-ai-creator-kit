@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "catalogue_version": "2026-10-10.1",
-  "as_of_utc": "2026-10-10T13:02:00Z",
+  "catalogue_version": "2026-10-10.2",
+  "as_of_utc": "2026-10-10T13:06:00Z",
   "scope": "Documented project maps, authored Wokas and explicitly separated references. This is a revisitable source catalogue, not the application template list.",
   "archive": {
     "current_commit": "03d83f2dd74108a6f75847bd2f7d03c5d619c950",
@@ -2665,13 +2665,15 @@
           "role": "editable source delta",
           "filename": "Campus10-restored24-editable-delta.zip",
           "archive_member": null,
-          "availability": "Retained in the owner’s private source archive; not redistributed here."
+          "availability": "Retained in the owner’s private source archive; not redistributed here.",
+          "version": 1
         },
         {
           "role": "lean runtime/publication freeze",
           "filename": "Campus10-restored24-publication-freeze.zip",
           "archive_member": null,
-          "availability": "Retained in the owner’s private source archive; not redistributed here."
+          "availability": "Retained in the owner’s private source archive; not redistributed here.",
+          "version": 1
         },
         {
           "role": "preview",
@@ -2686,7 +2688,8 @@
         "Optional native WAM stage/audience role areas are included; plain TMJ and WAM have identical painted chairs/collision."
       ],
       "rejected_or_limited": [
-        "Unpublished and renewed release approval pending. Source-schema/geometry checks do not prove live broadcasting, actual user capacity or physical-phone acceptance."
+        "Unpublished and renewed release approval pending. Source-schema/geometry checks do not prove live broadcasting, actual user capacity or physical-phone acceptance.",
+        "Podium/Audience editor controls are gated by FEATURE_FLAG_BROADCAST_AREAS, which defaults false in the inspected source; deployed flag state is unverified. Schema/handler support does not establish live role/media setup."
       ],
       "next_iteration": [
         "Review the corrected 24-seat freeze, then decide publication; verify optional WAM in the actual target room."

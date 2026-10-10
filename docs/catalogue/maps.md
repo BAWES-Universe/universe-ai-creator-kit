@@ -1,6 +1,6 @@
 # Map concept records
 
-[Catalogue](README.md). Evidence cut: 2026-10-10 13:02 UTC. Hashes and per-link verification are in [manifest.json](manifest.json).
+[Catalogue](README.md). Evidence cut: 2026-10-10 13:06 UTC. Hashes and per-link verification are in [manifest.json](manifest.json).
 
 ### butterfly-campus-v3-dark
 **Butterfly Campus · dark interior version** — rejected-main-direction-preserved.
@@ -388,7 +388,7 @@ Restore 24 auditorium positions (two banks of three chairs across four rows) whi
 - Version: 10-24seat; parent: magical-campus-10-sixteen-seat (derived from).
 - Preserved artifacts: Campus10-restored24-editable-delta.zip; Campus10-restored24-publication-freeze.zip; auditorium24-native-empty-occupied.png.
 - Keep: 24 positions restored as two banks × three chairs × four rows. Door, exterior and animation repairs retained. Optional native WAM stage/audience role areas are included; plain TMJ and WAM have identical painted chairs/collision.
-- Limits / rejected direction: Unpublished and renewed release approval pending. Source-schema/geometry checks do not prove live broadcasting, actual user capacity or physical-phone acceptance.
+- Limits / rejected direction: Unpublished and renewed release approval pending. Source-schema/geometry checks do not prove live broadcasting, actual user capacity or physical-phone acceptance. Podium/Audience editor controls are gated by FEATURE_FLAG_BROADCAST_AREAS, which defaults false in the inspected source; deployed flag state is unverified. Schema/handler support does not establish live role/media setup.
 - Next: Review the corrected 24-seat freeze, then decide publication; verify optional WAM in the actual target room.
 - Recovery: Frozen source restored. Editable recovery layers restored24 delta on the earlier Campus10 delta and Campus09 source; no large source rearchive.
 - Provenance: Project-authored; original/generated and third-party components retain separate provenance No new license is granted by this catalogue; check source-specific rights before redistribution.

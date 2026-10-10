@@ -63,4 +63,3 @@ When a later test changes the conclusion, keep the earlier source and explain th
 If a source becomes unavailable, flag the access problem. Do not invent its contents or quietly transfer its confidence to a replacement. If the original source can only be described from an earlier report, label it historical/reported and retain that limitation.
 
 [Back to the kit](../README.md) · [Validation guide](validation.md)
-

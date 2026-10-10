@@ -129,4 +129,3 @@ The proposed next art test is bounded: one original painted threshold vignette u
 - Find an art method that is genuinely better than v1 at native gameplay scale before scaling production to a full world.
 
 None of these open questions is silently marked solved by this documentation.
-

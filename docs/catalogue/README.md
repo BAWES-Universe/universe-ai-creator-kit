@@ -1,6 +1,6 @@
 # Universe map and Woka catalogue
 
-Version **2026-10-10.1**, evidence cut **10 October 2026, 13:02 UTC**.
+Version **2026-10-10.2**, evidence cut **10 October 2026, 13:06 UTC**.
 
 A list to revisit and iterate, including rejected drafts. The catalogue records 43 map/concept records, 18 Woka-sheet or pose-proof records across **three authored character families**, and 2 reference-avatar entries. It links originals rather than copying large assets.
 

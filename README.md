@@ -58,4 +58,3 @@ The [versioned catalogue](docs/catalogue/README.md) now indexes the [26-entry ar
 The starting archive preserves **10 Tiled candidates and four visual/art studies**. Original art quality is still being worked out, and archived experiments are not automatically publishable templates. Technical checks and visual acceptance are tracked separately.
 
 Each workflow needs validation against its exact **Universe or WorkAdventure version/fork**. Large assets stay in their source repositories. Check [evidence status](docs/evidence-status.md) and [asset rights and privacy](CONTRIBUTING.md#assets-rights-and-privacy) before reuse; this starter does not select a repository-wide license.
-

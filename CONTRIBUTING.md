@@ -74,4 +74,3 @@ This starter does not select a repository-wide license. A maintainer must choose
 - [ ] Assets and screenshots have an appropriate rights/privacy review.
 - [ ] No unrelated runtime, dependency, or large-asset changes were added.
 - [ ] Any requested promotion, publication, or deployment is stated explicitly for review.
-
