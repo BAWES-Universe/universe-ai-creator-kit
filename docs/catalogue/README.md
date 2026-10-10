@@ -1,6 +1,6 @@
 # Universe map and Woka catalogue
 
-Version **2026-10-10.2**, evidence cut **10 October 2026, 13:06 UTC**.
+Version **2026-10-10.3**, evidence cut **10 October 2026, 13:21 UTC**.
 
 A list to revisit and iterate, including rejected drafts. The catalogue records 43 map/concept records, 18 Woka-sheet or pose-proof records across **three authored character families**, and 2 reference-avatar entries. It links originals rather than copying large assets.
 
@@ -8,7 +8,7 @@ A list to revisit and iterate, including rejected drafts. The catalogue records 
 
 - **Gate:** keep A as the atmosphere baseline; B v1, v2 and v3 stay separately accessible. B v3 is the latest published preview; physical-mobile acceptance is pending.
 - **Campus:** 09 is a published native32 preview needing revision. Campus10’s 16-seat reduction was rejected and never published. The corrected 24-seat restoration is now frozen, still unpublished.
-- **New venue:** Astral Concourse and its proposed 210-seat Flagship Hall are early concepts. Other wings are not built, and capacity is not tested.
+- **New venue:** Astral Concourse’s Flagship now has a published native32 TMJ and companion WAM with 210 authored visual seats. Live room/media/concurrency remain untested. The shared lobby is a local concept in progress; other halls are unbuilt.
 - **Wokas:** Greg Gulf v3 is owner-accepted in game. Coffee carrier v9 is the best-supported base, v11 is rejected, and v12 is a pending minimal repair. Generic Gulf v2 is a distinct authored character with acceptance unrecorded.
 - **Archive:** the original [14-entry snapshot](https://github.com/BAWES-Universe/universe-maps/tree/d818e6c4c001e5fa7ba76e02663a1fb9ce9460fd/map-mocks) remains valid history. The [current pinned archive](https://github.com/BAWES-Universe/universe-maps/tree/03d83f2dd74108a6f75847bd2f7d03c5d619c950/map-mocks) has **26 entries**. Neither count means 26 approved playable templates.
 
@@ -65,8 +65,8 @@ No asset license is added by this catalogue. Preserve source attribution and che
 | butterfly-gate-b-v3 | Gate B v3 · boundaries and cinematic framing | published-preview | [source](https://github.com/BAWES-Universe/universe-maps/blob/1e4ff43f61c1e60a13e89a8a06b4b18dc8910d0d/public/butterfly-town/gate-b/v3/gate.tmj) · [hosted map](https://bawes-universe.github.io/universe-maps/butterfly-town/gate-b/v3/gate.tmj) |
 | social-outdoor-office-01 | Social Room / Outdoor Office · native32 | source-pr-open-unpublished | [source](https://github.com/BAWES-Universe/universe-maps/blob/267e22e8d271c19afb7701e155641ba184d4bef3/map-mocks/social-outdoor-office-01/map/studenthub-outdoor-office.tmj) |
 | social-outdoor-office-01-silent-spawn | Outdoor Office · silent-spawn derivative | source-pr-open-unpublished | [source](https://github.com/BAWES-Universe/universe-maps/blob/267e22e8d271c19afb7701e155641ba184d4bef3/map-mocks/social-outdoor-office-01/map/studenthub-outdoor-office-silent-spawn.tmj) |
-| astral-concourse-01 | Astral Concourse · multi-hall venue plan (working title) | new-concept-in-progress | Existing Library source / pending checkpoint; see record |
-| astral-concourse-flagship-01 | Flagship Hall · 210-seat concept (working title) | concept-checkpoint-functional-compile-in-progress | Existing Library source / pending checkpoint; see record |
+| astral-concourse-01 | Astral Concourse · multi-hall venue plan (working title) | masterplan-with-lobby-concept-in-progress | Existing Library source / pending checkpoint; see record |
+| astral-concourse-flagship-01 | Flagship Hall · 210-seat concept (working title) | published-static-preview-runtime-unverified | [source](https://github.com/BAWES-Universe/universe-maps/tree/f1841aaa8fa67ec54a2cc3ce8bce53d2452180da/public/astral-concourse/v01/flagship) · [hosted map](https://bawes-universe.github.io/universe-maps/astral-concourse/v01/flagship/map32/grand-auditorium.tmj) · [companion wam](https://bawes-universe.github.io/universe-maps/astral-concourse/v01/flagship/map32/grand-auditorium.wam) |
 
 ## Authored Wokas and pose proofs
 

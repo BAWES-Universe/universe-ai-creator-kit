@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "catalogue_version": "2026-10-10.2",
-  "as_of_utc": "2026-10-10T13:06:00Z",
+  "catalogue_version": "2026-10-10.3",
+  "as_of_utc": "2026-10-10T13:21:34Z",
   "scope": "Documented project maps, authored Wokas and explicitly separated references. This is a revisitable source catalogue, not the application template list.",
   "archive": {
     "current_commit": "03d83f2dd74108a6f75847bd2f7d03c5d619c950",
@@ -3154,7 +3154,7 @@
       "parent_relationship": "not recorded",
       "kind": "map-visual-proposal",
       "purpose": "TechCrunch-like conference / esports venue with shared lobby, Flagship, Forum, Arena and Studios/Expo wings.",
-      "status": "new-concept-in-progress",
+      "status": "masterplan-with-lobby-concept-in-progress",
       "evidence_status": "historical/reported; source inventory checked 2026-10-10",
       "created_date": "2026-10-10",
       "updated_date": "2026-10-10",
@@ -3164,7 +3164,8 @@
           "role": "source checkpoint",
           "filename": "Astral-Concourse-concept01-source.zip",
           "archive_member": null,
-          "availability": "Retained in the owner’s private source archive; not redistributed here."
+          "availability": "Retained in the owner’s private source archive; not redistributed here.",
+          "version": 1
         },
         {
           "role": "preview",
@@ -3175,14 +3176,14 @@
       ],
       "feedback": [],
       "what_worked": [
-        "Distinct event-program areas and shared schedule/arrival concept are sketched."
+        "Shared schedule/arrival masterplan separates Flagship, Forum, Arena and Studios/Expo. Flagship now has a published static prototype."
       ],
       "rejected_or_limited": [
-        "Only Flagship art/concept is underway. Other wings are not built. No TMJ/WAM or capacity test yet.",
-        "Working title and final visual design are not owner-approved; first concept previews were delivered 2026-10-10 at 12:59 UTC."
+        "Shared lobby is a separate local concept in progress. Forum, Arena and Studios/Expo remain concepts, not built halls.",
+        "No live portal destinations or cross-hall audio are configured. Working title and final design are not owner-approved."
       ],
       "next_iteration": [
-        "Review venue plan and one flagship scene before expanding."
+        "Review the shared lobby concept and real destination requirements before implementing further rooms."
       ],
       "hashes": [],
       "provenance": {
@@ -3195,7 +3196,7 @@
         "visual_acceptance": "not inferred"
       },
       "recovery": {
-        "status": "Concept01 source checkpoint saved in owner Library, version 0.",
+        "status": "Masterplan preview and source archive retained; source archive version1 includes the implemented Flagship prototype.",
         "missing_originals": []
       }
     },
@@ -3206,58 +3207,192 @@
       "version": "flagship-01",
       "parent_id": "astral-concourse-01",
       "parent_relationship": "component of",
-      "kind": "map-visual-proposal",
-      "purpose": "Large magical conference/esports hall with proposed 210 seats, stage/podium and authored aisles.",
-      "status": "concept-checkpoint-functional-compile-in-progress",
+      "kind": "map-tiled-map",
+      "purpose": "Native32 conference/esports flagship prototype with 210 authored visual seat positions, stage/podium and fixed-layer aisles.",
+      "status": "published-static-preview-runtime-unverified",
       "evidence_status": "historical/reported; source inventory checked 2026-10-10",
       "created_date": "2026-10-10",
       "updated_date": "2026-10-10",
-      "links": [],
+      "links": [
+        {
+          "role": "source",
+          "url": "https://github.com/BAWES-Universe/universe-maps/tree/f1841aaa8fa67ec54a2cc3ce8bce53d2452180da/public/astral-concourse/v01/flagship",
+          "verification": "Pinned source tree verified 2026-10-10"
+        },
+        {
+          "role": "pull_request",
+          "url": "https://github.com/BAWES-Universe/universe-maps/pull/10",
+          "verification": "Read 2026-10-10: regular, open and unmerged",
+          "head": "f1841aaa8fa67ec54a2cc3ce8bce53d2452180da"
+        },
+        {
+          "role": "hosted_map",
+          "url": "https://bawes-universe.github.io/universe-maps/astral-concourse/v01/flagship/map32/grand-auditorium.tmj",
+          "verification": "HTTP200, exact SHA256, CORS* verified in publication receipt",
+          "last_verified_at": "2026-10-10T13:21:34.639807+00:00"
+        },
+        {
+          "role": "companion_wam",
+          "url": "https://bawes-universe.github.io/universe-maps/astral-concourse/v01/flagship/map32/grand-auditorium.wam",
+          "verification": "HTTP200, exact SHA256, CORS* verified in publication receipt; activation route not verified",
+          "last_verified_at": "2026-10-10T13:21:34.639807+00:00"
+        },
+        {
+          "role": "publication_run",
+          "url": "https://github.com/BAWES-Universe/universe-maps/actions/runs/38055339226",
+          "verification": "Completed successfully for Pages commit 316af411f8a31d6e306d2332c167e7ab104285f8"
+        }
+      ],
       "artifacts": [
         {
           "role": "source checkpoint",
           "filename": "Astral-Concourse-concept01-source.zip",
+          "version": 1,
+          "archive_member": null,
+          "availability": "Retained in the owner’s private source archive; not redistributed here."
+        },
+        {
+          "role": "runtime",
+          "filename": "Astral-Concourse-flagship01-runtime.zip",
+          "version": 0,
           "archive_member": null,
           "availability": "Retained in the owner’s private source archive; not redistributed here."
         },
         {
           "role": "preview",
           "filename": "flagship-overview.png",
+          "version": 1,
           "archive_member": null,
           "availability": "Retained in the owner’s private source archive; not redistributed here."
         },
         {
           "role": "native-scale preview",
           "filename": "native-scale-composition.png",
+          "version": 1,
+          "archive_member": null,
+          "availability": "Retained in the owner’s private source archive; not redistributed here."
+        },
+        {
+          "role": "setup guide",
+          "filename": "Astral-Concourse-setup-and-verification.md",
+          "version": 0,
+          "archive_member": null,
+          "availability": "Retained in the owner’s private source archive; not redistributed here."
+        },
+        {
+          "role": "publication receipt",
+          "filename": "Astral-Concourse-publication-evidence.zip",
+          "version": 0,
           "archive_member": null,
           "availability": "Retained in the owner’s private source archive; not redistributed here."
         }
       ],
       "feedback": [],
       "what_worked": [
-        "New generated stage shell and unchanged native32 campus chair/Woka assets composed as an early preview."
+        "Native32 TMJ plus companion WAM packaged and statically published. All 10 runtime/documentation files returned HTTP200 with exact bytes and CORS*.",
+        "Bounded source checks recorded 3,800 movement legs with zero failures, all 210 seats reachable, zero foreground/head conflicts over 554,924 placements, and 26 WAM-schema checks passed."
       ],
       "rejected_or_limited": [
-        "210 is proposed physical seating, not tested simultaneous-user or conference capacity. Floor/aisle registration needs refinement; no TMJ/WAM, live or multiplayer test.",
-        "Working title and final visual design are not owner-approved; first concept previews were delivered 2026-10-10 at 12:59 UTC."
+        "No live Universe room, browser/multiplayer renderer, media join, transition-bubble, cross-hall audio or capacity/load acceptance.",
+        "TMJ alone does not enable the complete Podium/Audience pair. Companion WAM room setup/import and the deployed FEATURE_FLAG_BROADCAST_AREAS setting remain unverified; the source default is false.",
+        "Other halls remain masterplan concepts. Shared lobby is separate local concept work; south return and live portal destinations are unbound.",
+        "Additive Pages preview can be replaced by a future clean master deployment while source PR10 is unmerged.",
+        "Astral Concourse is a working title; final owner visual acceptance is not recorded."
       ],
       "next_iteration": [
-        "Review composition, refine native geometry and test fixed chair/podium occlusion."
+        "Validate the published TMJ/WAM in the intended room, confirm broadcaster/audience setup and real client movement/occlusion, then review actual multi-user media behavior before making capacity claims."
       ],
-      "hashes": [],
+      "hashes": [
+        {
+          "file": "collision-cell.png",
+          "sha256": "7e285a1bf660a131415e1e37f30fb2507f34471ec24ce0832b52d6704a0d2092",
+          "scope": "Frozen runtime bytes; HTTP publication verified"
+        },
+        {
+          "file": "grand-auditorium.tmj",
+          "sha256": "f3fd0e2609d03cd4088ef7917f737237bc4c65638044ba22c335b349f5f498e9",
+          "scope": "Frozen runtime bytes; HTTP publication verified"
+        },
+        {
+          "file": "grand-auditorium.wam",
+          "sha256": "e9397ad794371afae708c3568926945247e7a1d3cd0d9f9ae270af125ca2d23b",
+          "scope": "Frozen runtime bytes; HTTP publication verified"
+        },
+        {
+          "file": "hall-above-p0.png",
+          "sha256": "6d88b6aa2e9ef0e7c1d4a48c45cc32a5cf281575fd9c0435b180c72be535b0de",
+          "scope": "Frozen runtime bytes; HTTP publication verified"
+        },
+        {
+          "file": "hall-base-p0.png",
+          "sha256": "7cac5136d209f6b07ecdeace433fe172c4d21a66d1e6f561f702396a8f53e077",
+          "scope": "Frozen runtime bytes; HTTP publication verified"
+        },
+        {
+          "file": "hall-base-p1.png",
+          "sha256": "c4309d847ce78f603cc8687397c32bc541e527718526c8bb61f4ce2ad231977f",
+          "scope": "Frozen runtime bytes; HTTP publication verified"
+        }
+      ],
       "provenance": {
         "creation": "Project-generated hall art plus reused project campus chairs. The supplied 100 Roads Conference Campus is behavior/capacity inspiration only; no rights to its artwork are inferred.",
         "rights": "No new license is granted by this catalogue; check source-specific rights before redistribution."
       },
       "verification": {
-        "source_inventory": "checked",
-        "full_runtime": "not rerun",
-        "visual_acceptance": "not inferred"
+        "source_inventory": "Pinned source tree checked; release package hashes inspected",
+        "static_publication": {
+          "verified_at": "2026-10-10T13:21:34.639807+00:00",
+          "pages_commit": "316af411f8a31d6e306d2332c167e7ab104285f8",
+          "files": 10,
+          "http_200": true,
+          "exact_bytes": true,
+          "cors": "*",
+          "source_blobs_preserved": 215,
+          "served_blobs_preserved": 380
+        },
+        "source_checks": {
+          "reachableSeats": 210,
+          "nativeMovementLegs": 3800,
+          "movementFailures": 0,
+          "bodyClearReachablePlacements": 554924,
+          "foregroundHeadConflicts": 0,
+          "safeIntegerSpawns": 1089,
+          "connectedWalkableCells": 716,
+          "wamChecksPassed": 26,
+          "packageChecksPassed": 18
+        },
+        "full_runtime": "Not tested in a live room/browser or with multiple users",
+        "visual_acceptance": "Initial concept/prototype delivered; final owner acceptance not inferred",
+        "capacity": "210 visual seats only; concurrency/media/load untested"
       },
       "recovery": {
-        "status": "Concept01 source checkpoint saved in owner Library, version 0.",
+        "status": "Runtime ZIP version0, complete source ZIP version1, preview versions1 and publication evidence remain in existing Library identities; runtime source pinned in maps PR10.",
         "missing_originals": []
-      }
+      },
+      "capacity": {
+        "authored_visual_seats": 210,
+        "seats_reachable_in_source_checks": 210,
+        "concurrent_users_tested": null,
+        "media_capacity_tested": null,
+        "meaning": "Visual seat count and bounded source reachability are not tested simultaneous-user or media capacity."
+      },
+      "history": [
+        {
+          "date": "2026-10-10T12:59:00Z",
+          "status": "concept-preview-delivered",
+          "note": "Early concept and native-scale images with source archive version0 preserved in Library history."
+        },
+        {
+          "date": "2026-10-10T13:10:00Z",
+          "status": "local-runtime-packaged",
+          "note": "TMJ/WAM runtime compiled; source and previews advanced to version1."
+        },
+        {
+          "date": "2026-10-10T13:21:34.639807+00:00",
+          "status": "static-publication-verified",
+          "note": "Additive Pages deployment and source PR10 verified. No live room or media service created."
+        }
+      ]
     },
     {
       "id": "woka-coffee-v1",

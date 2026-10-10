@@ -1,6 +1,6 @@
 # Map concept records
 
-[Catalogue](README.md). Evidence cut: 2026-10-10 13:06 UTC. Hashes and per-link verification are in [manifest.json](manifest.json).
+[Catalogue](README.md). Evidence cut: 2026-10-10 13:21 UTC. Hashes and per-link verification are in [manifest.json](manifest.json).
 
 ### butterfly-campus-v3-dark
 **Butterfly Campus · dark interior version** — rejected-main-direction-preserved.
@@ -463,23 +463,26 @@ Arrival-region derivative of the separate native32 social room.
 - Provenance: Project-authored; original/generated and third-party components retain separate provenance No new license is granted by this catalogue; check source-specific rights before redistribution.
 
 ### astral-concourse-01
-**Astral Concourse · multi-hall venue plan (working title)** — new-concept-in-progress.
+**Astral Concourse · multi-hall venue plan (working title)** — masterplan-with-lobby-concept-in-progress.
 TechCrunch-like conference / esports venue with shared lobby, Flagship, Forum, Arena and Studios/Expo wings.
 - Version: 01; parent: not recorded (not recorded).
-- Preserved artifacts: Astral-Concourse-concept01-source.zip; event-venue-masterplan.png.
-- Keep: Distinct event-program areas and shared schedule/arrival concept are sketched.
-- Limits / rejected direction: Only Flagship art/concept is underway. Other wings are not built. No TMJ/WAM or capacity test yet. Working title and final visual design are not owner-approved; first concept previews were delivered 2026-10-10 at 12:59 UTC.
-- Next: Review venue plan and one flagship scene before expanding.
-- Recovery: Concept01 source checkpoint saved in owner Library, version 0.
+- Preserved artifacts: Astral-Concourse-concept01-source.zip (version 1); event-venue-masterplan.png.
+- Keep: Shared schedule/arrival masterplan separates Flagship, Forum, Arena and Studios/Expo. Flagship now has a published static prototype.
+- Limits / rejected direction: Shared lobby is a separate local concept in progress. Forum, Arena and Studios/Expo remain concepts, not built halls. No live portal destinations or cross-hall audio are configured. Working title and final design are not owner-approved.
+- Next: Review the shared lobby concept and real destination requirements before implementing further rooms.
+- Recovery: Masterplan preview and source archive retained; source archive version1 includes the implemented Flagship prototype.
 - Provenance: Project-authored; original/generated and third-party components retain separate provenance No new license is granted by this catalogue; check source-specific rights before redistribution.
 
 ### astral-concourse-flagship-01
-**Flagship Hall · 210-seat concept (working title)** — concept-checkpoint-functional-compile-in-progress.
-Large magical conference/esports hall with proposed 210 seats, stage/podium and authored aisles.
+**Flagship Hall · 210-seat concept (working title)** — published-static-preview-runtime-unverified.
+Native32 conference/esports flagship prototype with 210 authored visual seat positions, stage/podium and fixed-layer aisles.
 - Version: flagship-01; parent: astral-concourse-01 (component of).
-- Preserved artifacts: Astral-Concourse-concept01-source.zip; flagship-overview.png; native-scale-composition.png.
-- Keep: New generated stage shell and unchanged native32 campus chair/Woka assets composed as an early preview.
-- Limits / rejected direction: 210 is proposed physical seating, not tested simultaneous-user or conference capacity. Floor/aisle registration needs refinement; no TMJ/WAM, live or multiplayer test. Working title and final visual design are not owner-approved; first concept previews were delivered 2026-10-10 at 12:59 UTC.
-- Next: Review composition, refine native geometry and test fixed chair/podium occlusion.
-- Recovery: Concept01 source checkpoint saved in owner Library, version 0.
+- Links: [source](https://github.com/BAWES-Universe/universe-maps/tree/f1841aaa8fa67ec54a2cc3ce8bce53d2452180da/public/astral-concourse/v01/flagship) · [pull request](https://github.com/BAWES-Universe/universe-maps/pull/10) · [hosted map](https://bawes-universe.github.io/universe-maps/astral-concourse/v01/flagship/map32/grand-auditorium.tmj) · [companion wam](https://bawes-universe.github.io/universe-maps/astral-concourse/v01/flagship/map32/grand-auditorium.wam) · [publication run](https://github.com/BAWES-Universe/universe-maps/actions/runs/38055339226)
+- Preserved artifacts: Astral-Concourse-concept01-source.zip (version 1); Astral-Concourse-flagship01-runtime.zip (version 0); flagship-overview.png (version 1); native-scale-composition.png (version 1); Astral-Concourse-setup-and-verification.md (version 0); Astral-Concourse-publication-evidence.zip (version 0).
+- Keep: Native32 TMJ plus companion WAM packaged and statically published. All 10 runtime/documentation files returned HTTP200 with exact bytes and CORS*. Bounded source checks recorded 3,800 movement legs with zero failures, all 210 seats reachable, zero foreground/head conflicts over 554,924 placements, and 26 WAM-schema checks passed.
+- Limits / rejected direction: No live Universe room, browser/multiplayer renderer, media join, transition-bubble, cross-hall audio or capacity/load acceptance. TMJ alone does not enable the complete Podium/Audience pair. Companion WAM room setup/import and the deployed FEATURE_FLAG_BROADCAST_AREAS setting remain unverified; the source default is false. Other halls remain masterplan concepts. Shared lobby is separate local concept work; south return and live portal destinations are unbound. Additive Pages preview can be replaced by a future clean master deployment while source PR10 is unmerged. Astral Concourse is a working title; final owner visual acceptance is not recorded.
+- Next: Validate the published TMJ/WAM in the intended room, confirm broadcaster/audience setup and real client movement/occlusion, then review actual multi-user media behavior before making capacity claims.
+- Recovery: Runtime ZIP version0, complete source ZIP version1, preview versions1 and publication evidence remain in existing Library identities; runtime source pinned in maps PR10.
 - Provenance: Project-generated hall art plus reused project campus chairs. The supplied 100 Roads Conference Campus is behavior/capacity inspiration only; no rights to its artwork are inferred. No new license is granted by this catalogue; check source-specific rights before redistribution.
+- Revision history: 2026-10-10T12:59:00Z: Early concept and native-scale images with source archive version0 preserved in Library history. 2026-10-10T13:10:00Z: TMJ/WAM runtime compiled; source and previews advanced to version1. 2026-10-10T13:21:34.639807+00:00: Additive Pages deployment and source PR10 verified. No live room or media service created.
+
